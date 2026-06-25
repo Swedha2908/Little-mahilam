@@ -41,12 +41,6 @@ export default function Hero() {
               Book Admission
             </Link>
             
-            <Link 
-              href="#footer"
-              className="px-8 py-4 bg-white text-blue-500 border-2 border-blue-500 font-extrabold rounded-full shadow-xl hover:bg-blue-50 hover:scale-105 transition-all cursor-pointer inline-block"
-            >
-              Schedule a Visit
-            </Link>
           </div>
         </motion.div>
       </div>
